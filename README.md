@@ -14,5 +14,3 @@ The accuracy score of the model_under is: 99.39%
 
 ---
 ![](6b1a94c3-9b8a-4df7-bd56-7c2e31f60ad6.png)
-
-<img src="kkl.png" display='block' margin-left='auto' margin-right='auto'>
